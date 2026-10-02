@@ -2,21 +2,21 @@
 
 Welcome to my **Python Learning Journey** 🚀
 
-This repository contains my structured learning and revision of Python, starting from the fundamentals and gradually moving toward advanced Python concepts and backend development.
+This repository contains my structured learning and revision of Python, starting from the fundamentals and gradually moving toward advanced Python concepts.
 
-The main goal of this repository is to **strengthen my Python fundamentals, practice coding regularly, improve problem-solving skills, and build a strong foundation for backend development.**
+The purpose of this repository is to **revise what I have learned, strengthen my Python fundamentals, practice coding regularly, and improve my problem-solving skills.**
 
 ---
 
 ## 🎯 Goals
 
 * Revise Python from basics to advanced concepts
-* Practice Python through small programs and exercises
-* Strengthen problem-solving skills
-* Maintain consistent coding practice
-* Learn Python concepts through practical examples
-* Build a foundation for backend development
-* Practice Git and GitHub alongside Python
+* Strengthen Python fundamentals
+* Practice coding regularly
+* Improve problem-solving skills
+* Learn concepts through practical examples
+* Maintain a consistent learning journey
+* Build small Python programs and mini projects
 
 ---
 
@@ -99,61 +99,31 @@ The main goal of this repository is to **strengthen my Python fundamentals, prac
 * Context Managers
 * Advanced Comprehensions
 
-### 11. Database
-
-* SQL Basics
-* SQLite
-* SQLAlchemy
-* CRUD Operations
-
-### 12. APIs
-
-* HTTP Basics
-* REST APIs
-* API Requests
-* JSON Data
-
-### 13. FastAPI
-
-* FastAPI Basics
-* Routing
-* Pydantic
-* Dependencies
-* CRUD APIs
-* Authentication
-* Database Integration
-
-### 14. Practice & Projects
+### 11. Python Practice
 
 * Coding Exercises
-* Mini Projects
 * Problem Solving
-* Backend Projects
+* Logical Programs
+* Mini Projects
+* Practice Challenges
 
 ---
 
 ## 📅 Learning Progress
 
-| Day   | Topic                    | Status |
-| ----- | ------------------------ | ------ |
-| Day 1 | Variables & Data Types   | ✅      |
-| Day 2 | Operators & Input/Output | ⏳      |
-| Day 3 | Conditional Statements   | ⏳      |
-| Day 4 | Loops                    | ⏳      |
-| Day 5 | Strings                  | ⏳      |
+| Day   | Topic                  | Status |
+| ----- | ---------------------- | ------ |
+| Day 1 | Variables & Data Types | ✅      |
 
-> This table will be updated regularly as I progress.
+> This table will be updated as I continue learning.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools
 
 * Python
 * Git
 * GitHub
-* SQLite
-* SQLAlchemy
-* FastAPI
 * VS Code
 
 ---
@@ -173,10 +143,7 @@ python-learning-journey/
 ├── 08_file_handling/
 ├── 09_exception_handling/
 ├── 10_advanced_python/
-├── 11_database/
-├── 12_api/
-├── 13_fastapi/
-├── 14_practice/
+├── 11_practice/
 │
 ├── README.md
 └── .gitignore
@@ -186,14 +153,8 @@ python-learning-journey/
 
 ## 🚀 Purpose
 
-This repository is not just a collection of Python programs. It is a record of my **continuous learning, revision, practice, and progress in Python and backend development.**
+This repository is my personal **Python learning and revision journey**.
 
-I will continue adding new concepts, practice problems, and projects as I learn.
+I will continuously add Python concepts, practice programs, coding exercises, and mini projects as I learn and revise.
 
----
-
-## 📈 Progress
-
-**Learning → Practicing → Building → Improving**
-
-🐍 Python | ⚡ FastAPI | 🗄️ Database | 🔗 APIs | 🚀 Backend Development
+**Learn → Practice → Build → Improve** 🐍
