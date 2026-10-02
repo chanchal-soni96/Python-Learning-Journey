@@ -1,32 +1,37 @@
-# for i in range(1, 21):
-#     if i % 2 == 0:
-#      print(i)
+# print even num b/w 1 to 20
+for i in range(1, 21):
+    if i % 2 == 0:
+     print(i)
 
-# num = int(input("Enter a number: "))
-# for i in range(1, 11):
-#    print(f"{num} * {i} = {num * i}")
+# table 
+num = int(input("Enter a number: "))
+for i in range(1, 11):
+   print(f"{num} * {i} = {num * i}")
 
-# count = 5
-# while(count >= 1):
-#    print(count)
-#    count = count - 1
+# Countdown
+count = 5
+while(count >= 1):
+   print(count)
+   count = count - 1
    
-# print ("Go!")
+print ("Go!")
 
 
-# for i in range(5):
-#    for j in range(0, i+1):
-#       print("*", end="")
-#    print()
+# print * 
+for i in range(5):
+   for j in range(0, i+1):
+      print("*", end="")
+   print()
 
-# num1 = 1
-# while(num1 <= 10):
-#    print(num1)
-#    num1 = num1 + 1
+# break statement
+num1 = 1
+while(num1 <= 10):
+   print(num1)
+   num1 = num1 + 1
 
-#    if num1 == 6:
-#       break
-
+   if num1 == 6:
+      break
+# continue statement
 num2 = 1
 while(num2 <= 10): 
    
