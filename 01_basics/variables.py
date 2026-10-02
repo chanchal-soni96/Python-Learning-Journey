@@ -34,3 +34,5 @@ age_str = "23"
 age_num = int(age_str)
 print(age_num)
 print(type(age_num))
+
+
