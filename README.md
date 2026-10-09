@@ -29,23 +29,20 @@ The purpose of this repository is to **revise what I have learned, strengthen my
 * Type Conversion
 * Input & Output
 * Operators
-
-### 02. Control Flow
-
 * Conditional Statements
 * `if`, `elif`, `else`
 * `for` Loop
 * `while` Loop
 * `break`, `continue`, `pass`
 
-### 03. Strings
+### 02. Strings
 
 * String Operations
 * String Methods
 * String Formatting
 * Slicing
 
-### 04. Functions
+### 03. Functions
 
 * Functions
 * Parameters & Arguments
@@ -53,7 +50,7 @@ The purpose of this repository is to **revise what I have learned, strengthen my
 * Lambda Functions
 * Recursion
 
-### 05. Data Structures
+### 04. Data Structures
 
 * Lists
 * Tuples
@@ -61,7 +58,7 @@ The purpose of this repository is to **revise what I have learned, strengthen my
 * Dictionaries
 * Comprehensions
 
-### 06. Object-Oriented Programming
+### 05. Object-Oriented Programming
 
 * Classes & Objects
 * Constructors
@@ -70,20 +67,20 @@ The purpose of this repository is to **revise what I have learned, strengthen my
 * Polymorphism
 * Abstraction
 
-### 07. Modules & Packages
+### 06. Modules & Packages
 
 * Modules
 * Packages
 * Importing
 * Standard Library
 
-### 08. File Handling
+### 07. File Handling
 
 * Reading Files
 * Writing Files
 * Working with JSON
 
-### 09. Exception Handling
+### 08. Exception Handling
 
 * `try`
 * `except`
@@ -91,7 +88,7 @@ The purpose of this repository is to **revise what I have learned, strengthen my
 * `finally`
 * Custom Exceptions
 
-### 10. Advanced Python
+### 9. Advanced Python
 
 * Iterators
 * Generators
@@ -99,7 +96,7 @@ The purpose of this repository is to **revise what I have learned, strengthen my
 * Context Managers
 * Advanced Comprehensions
 
-### 11. Python Practice
+### 10. Python Practice
 
 * Coding Exercises
 * Problem Solving
