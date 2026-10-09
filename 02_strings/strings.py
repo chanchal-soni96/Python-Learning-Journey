@@ -1,0 +1,6 @@
+user_name = input(str("Enter your full name: "))
+print(user_name.upper())
+print(user_name.lower())
+print(len(user_name))
+print(user_name.strip())
+print(user_name[0])
